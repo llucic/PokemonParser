@@ -1,0 +1,9 @@
+c:\users\luka\documents\visual studio 2013\Projects\Pokemon Parser\Pokemon Parser\bin\Debug\Pokemon Parser.exe.config
+c:\users\luka\documents\visual studio 2013\Projects\Pokemon Parser\Pokemon Parser\bin\Debug\Pokemon Parser.exe
+c:\users\luka\documents\visual studio 2013\Projects\Pokemon Parser\Pokemon Parser\bin\Debug\Pokemon Parser.pdb
+c:\users\luka\documents\visual studio 2013\Projects\Pokemon Parser\Pokemon Parser\obj\Debug\Pokemon Parser.csprojResolveAssemblyReference.cache
+c:\users\luka\documents\visual studio 2013\Projects\Pokemon Parser\Pokemon Parser\obj\Debug\Pokemon_Parser.Form1.resources
+c:\users\luka\documents\visual studio 2013\Projects\Pokemon Parser\Pokemon Parser\obj\Debug\Pokemon_Parser.Properties.Resources.resources
+c:\users\luka\documents\visual studio 2013\Projects\Pokemon Parser\Pokemon Parser\obj\Debug\Pokemon Parser.csproj.GenerateResource.Cache
+c:\users\luka\documents\visual studio 2013\Projects\Pokemon Parser\Pokemon Parser\obj\Debug\Pokemon Parser.exe
+c:\users\luka\documents\visual studio 2013\Projects\Pokemon Parser\Pokemon Parser\obj\Debug\Pokemon Parser.pdb
