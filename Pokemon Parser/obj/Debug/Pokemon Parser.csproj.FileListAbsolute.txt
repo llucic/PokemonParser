@@ -7,3 +7,6 @@ c:\users\luka\documents\visual studio 2013\Projects\Pokemon Parser\Pokemon Parse
 c:\users\luka\documents\visual studio 2013\Projects\Pokemon Parser\Pokemon Parser\obj\Debug\Pokemon Parser.csproj.GenerateResource.Cache
 c:\users\luka\documents\visual studio 2013\Projects\Pokemon Parser\Pokemon Parser\obj\Debug\Pokemon Parser.exe
 c:\users\luka\documents\visual studio 2013\Projects\Pokemon Parser\Pokemon Parser\obj\Debug\Pokemon Parser.pdb
+C:\Users\Luka\Documents\GitHub\Pokemon Parser\Pokemon Parser\bin\Debug\Pokemon Parser.exe.config
+C:\Users\Luka\Documents\GitHub\Pokemon Parser\Pokemon Parser\obj\Debug\Pokemon Parser.exe
+C:\Users\Luka\Documents\GitHub\Pokemon Parser\Pokemon Parser\obj\Debug\Pokemon Parser.pdb
